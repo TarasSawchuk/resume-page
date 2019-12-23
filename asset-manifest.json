@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/resume-page/static/css/main.105e41ac.chunk.css",
+    "main.js": "/resume-page/static/js/main.77009d4e.chunk.js",
+    "main.js.map": "/resume-page/static/js/main.77009d4e.chunk.js.map",
+    "runtime-main.js": "/resume-page/static/js/runtime-main.f8dd42d1.js",
+    "runtime-main.js.map": "/resume-page/static/js/runtime-main.f8dd42d1.js.map",
+    "static/js/2.386253ea.chunk.js": "/resume-page/static/js/2.386253ea.chunk.js",
+    "static/js/2.386253ea.chunk.js.map": "/resume-page/static/js/2.386253ea.chunk.js.map",
+    "index.html": "/resume-page/index.html",
+    "precache-manifest.b42ec3e03fd19d43ade418388b18e870.js": "/resume-page/precache-manifest.b42ec3e03fd19d43ade418388b18e870.js",
+    "service-worker.js": "/resume-page/service-worker.js",
+    "static/css/main.105e41ac.chunk.css.map": "/resume-page/static/css/main.105e41ac.chunk.css.map",
+    "static/js/2.386253ea.chunk.js.LICENSE": "/resume-page/static/js/2.386253ea.chunk.js.LICENSE",
+    "static/media/Content.scss": "/resume-page/static/media/background-resume.3984cd6f.jpeg",
+    "static/media/movie4evening.png": "/resume-page/static/media/movie4evening.5905efa8.png",
+    "static/media/profile-photo.jpg": "/resume-page/static/media/profile-photo.be057261.jpg",
+    "static/media/treking-gear.png": "/resume-page/static/media/treking-gear.7a357ef8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8dd42d1.js",
+    "static/js/2.386253ea.chunk.js",
+    "static/css/main.105e41ac.chunk.css",
+    "static/js/main.77009d4e.chunk.js"
+  ]
+}
